@@ -1,6 +1,6 @@
 package Noob;
 
-public class sec_Largest_Smallest {
+public class Sec_Largest_Smallest {
     public static void main(String[] args) {
         int[] arr = {30,25,20,15,3,10,31};
         int lar = Integer.MIN_VALUE;
